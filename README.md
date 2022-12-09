@@ -1,10 +1,12 @@
 # C++ menghitung waktu dan biaya bahan bakar
 
-Catatan: Dalam contoh di atas, kami menganggap bahwa 1 liter bahan bakar dapat menjelajahi 20 km. Angka ini bisa berbeda tergantung pada jenis kendaraan yang Anda gunakan.
+Catatan: Dalam contoh di atas, saya menganggap bahwa 1 liter bahan bakar dapat menjelajahi 20 km. Angka ini bisa berbeda tergantung pada jenis kendaraan yang Anda gunakan.
+
+
 
 Output:
-Masukkan kecepatan (km/jam): 100
-Masukkan jarak (km): 660
-Waktu perjalanan: 6.6 jam
-Bahan bakar: 33 liter
-Biaya bahan bakar: Rp224400
+
+
+
+
+![Screenshot (41)](https://user-images.githubusercontent.com/90950617/206613509-78e2ccf0-ccdf-449d-a243-4f33f3027a48.png)
