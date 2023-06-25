@@ -19,8 +19,8 @@ int main()
   liter = jarak / 20;
 
   // Tampilkan hasil perhitungan
-  cout << "Waktu perjalanan: " << waktu << " jam" << endl;
-  cout << "Bahan bakar: " << liter << " liter" << endl;
+  cout << "Waktu perjalanan: " << waktu << " Jam" << endl;
+  cout << "Bahan bakar: " << liter << " Liter" << endl;
   cout << "Biaya bahan bakar: Rp" << biaya_bahan_bakar << endl;
 
   return 0;
